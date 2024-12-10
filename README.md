@@ -6,3 +6,4 @@ Scripts Included:
 2. Disable Automatic App Updates
 3. Download and Install OS Updates
 4. List Available Updates for Windows
+5. Restart Windows Update Services
